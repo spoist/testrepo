@@ -1,2 +1,3 @@
 Good, now let's save the second changes.
 Plus an added line.
+This is a third line added newly.
